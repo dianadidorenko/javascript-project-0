@@ -1,0 +1,44 @@
+/* Практика 1 */
+body {
+  height: 100vh;
+  background-color: bisque;
+}
+.a1,
+.a2,
+.a3 {
+  display: block;
+  max-width: 140px;
+  text-decoration: none;
+  background-color: navy;
+  color: aliceblue;
+  padding: 25px 45px;
+  font-size: 20px;
+  border-radius: 10px;
+  margin: 20px;
+     text-align: center;
+}
+
+/* Практика 2 */
+
+.a2 {
+  max-width: 160px;
+
+}
+.practice2-div {
+  max-width: 155px;
+  margin: 20px;
+  padding-top: 10px;
+  border-top: 1px solid #000;
+}
+.practice2-p {
+  background-color: crimson;
+  padding: 15px;
+  color: aliceblue;
+  border-radius: 10px;
+}
+
+/* Практика 3 */
+
+.a3 {
+  max-width: 140px;
+}
